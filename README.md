@@ -1,6 +1,6 @@
 <h1 align="center">Shake App</h1>
 <p align="center">
-  <img src="https://socialify.git.ci/MostafaSensei106/shake_app/image?custom_language=Dart&font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light" alt="Shake App Banner">
+  <img src="https://socialify.git.ci/MostafaSensei106/Shake_App/image?custom_language=Flutter&font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light" alt="Shake App Banner">
 </p>
 
 <p align="center">
